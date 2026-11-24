@@ -9,7 +9,7 @@ The app itself lives in a separate private repository. This one holds only what 
 - `index.html`: the front page.
 - `privacy/index.html`: the privacy policy, at `https://orihon.app/privacy`. App Store Connect and TestFlight point at this address.
 - `support/index.html`: support, at `https://orihon.app/support`.
-- `ixoon/privacy/index.html`: Lune's privacy policy, at `https://orihon.app/ixoon/privacy/` (iXoon is Lune's code name).
+- `lune/privacy/index.html`: Lune's privacy policy, at `https://orihon.app/lune/privacy/`. `ixoon/privacy/index.html` forwards the old address there (iXoon is Lune's code name; App Store Connect pointed at the old address).
 - `lune/support/index.html`: Lune's support page, at `https://orihon.app/lune/support/`. App Store Connect's Support URL points at it.
 - `404.html`: shown for any address that does not exist.
 - `style.css`: the one stylesheet. Icons are web-sized copies of the app icon.
